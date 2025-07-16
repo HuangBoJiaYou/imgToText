@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-15 -15 130 130" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css">
+        * {
+            stroke: #fff;
+        }
+        .p {
+            fill: none;
+            stroke-width: 3;
+            stroke-linejoin: round;
+            stroke-linecap: round;
+        }
+        .f {
+            fill: #fff;
+            stroke-width: 0;
+            stroke-linejoin: round;
+            stroke-linecap: round;
+        }
+    </style>
+    <path d="M75 44 v-36 h-12 v13 h-38 v-13 L13 8 L13 88 h35" class="p"/>
+    <path d="M88 56 L78 48 h-27 v51 h37 z" class="p"/>
+    <path d="M57 67 h25 M57 77 h25 M57 87 h25" class="p"/>
+    <path d="M38 6 h-9 v12 h30 v-12 h-9 a6 6 0 0 0 -12 0 z" class="f"/>
+</svg>

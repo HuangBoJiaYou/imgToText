@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="-50 -50 200 200" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        * { opacity: 0.5}
+    </style>
+    <text text-anchor="middle" x="50" y="-10" fill="#333" font-weight="bold">
+        请输入图片
+    </text>
+    <path d="M0 5 v90 a5 5 0 0 0 5 5 h90 a5 5 0 0 0 5 -5 v-90 a5 5 0 0 0 -5 -5 h-90 a5 5 0 0 0 -5 5 z" fill="none" stroke-width="2" stroke="#333"/>
+    <circle cx="25" cy="25" r="10" fill="#333" stroke-width="0"/>
+    <path stroke-width="2" stroke-linejoin="round" stroke="#333" fill="#333" d="M0 65 l20 -20 l20 25 l30 -35 L100 60 v35 a5 5 0 0 1 -5 5 h-90 a5 5 0 0 1 -5 -5 z"/>
+</svg>

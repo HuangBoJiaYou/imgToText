@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<svg viewBox="-15 -15 130 130" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="50" cy="50" r="50" fill="none" stroke="#333" stroke-width="8"/>
-    <path d="M45 20 v25 h-25 l8 -8" stroke="#333" stroke-width="4" fill="none"/>
-    <path d="M50 0 v100" stroke="#333" stroke-width="8" transform="rotate(-45, 50, 50)" fill="none"/>
-</svg>
